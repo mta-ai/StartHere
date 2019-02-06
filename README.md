@@ -9,7 +9,7 @@
 [Canadian Government Open Portal](https://open.canada.ca/data/en/dataset)
 
 ### Climate Data:
-[exiobase](https://www.exiobase.eu/)
+[Exio Base](https://www.exiobase.eu/)
 
 [Climate.gov](https://www.climate.gov/)
 
