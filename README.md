@@ -1,4 +1,4 @@
-# StartHere
+# Start Here
 This society is dedicated to providing educational content about artificial intelligence. This page contains some general machine learning resources, while topics specific to the society can be found in the other repositories. 
 
 We welcome any suggestions about how to improve any of our content. And please feel free to fork and play around with anything that captures your interest. We hope this aids your journey into a fascinating and revolutionay field. 
