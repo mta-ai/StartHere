@@ -6,13 +6,13 @@
 ## Data Sources:
 
 ### General:
-[Canadian Government Open Portal] (https://open.canada.ca/data/en/dataset)
+[Canadian Government Open Portal](https://open.canada.ca/data/en/dataset)
 
 ### Climate Data:
-[exiobase] (https://www.exiobase.eu/)
-[Climate.gov] (https://www.climate.gov/)
+[exiobase](https://www.exiobase.eu/)
+[Climate.gov](https://www.climate.gov/)
 
 ## Machine Learning Contests
-[Dream Challenges] (http://dreamchallenges.org/)
-[Data Science Bowl] (https://datasciencebowl.com/)
-[Physio Net] (https://physionet.org/challenge/)
+[Dream Challenges](http://dreamchallenges.org/)
+[Data Science Bowl](https://datasciencebowl.com/)
+[Physio Net](https://physionet.org/challenge/)
