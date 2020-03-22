@@ -3,10 +3,32 @@ This society is dedicated to providing educational content about artificial inte
 
 We welcome any suggestions about how to improve any of our content. And please feel free to fork and play around with anything that captures your interest. We hope this aids your journey into a fascinating and revolutionary field. 
 
+## Getting Started with Machine Learning:
+https://github.com/ZuzooVn/machine-learning-for-software-engineers
+https://github.com/ageron/handson-ml
+https://github.com/jbhuang0604/awesome-computer-vision
+https://github.com/academic/awesome-datascience
+https://github.com/hangtwenty/dive-into-machine-learning
+
+## Guides from organisations:
+https://github.com/microsoft/AI
+https://spinningup.openai.com/en/latest/user/introduction.html
+
+## Projecs from ML Socities:
+https://github.com/google-research/google-research
+https://github.com/deepmind/deepmind-research
+
+
 ## General Resources:
 [How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
 
-## Academic Blogs:
+## Lists of Papers:
+https://github.com/kjw0612/awesome-deep-vision
+https://github.com/kjw0612/awesome-rnn
+https://github.com/terryum/awesome-deep-learning-papers
+https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
+
+## Blogs:
 [Berkeley AI Blog](https://bair.berkeley.edu/blog/)
 [Google AI Blog](https://ai.googleblog.com/)
 
